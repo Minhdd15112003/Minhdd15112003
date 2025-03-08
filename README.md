@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hello World!, I'm Minh, a Vietnam Backend Developer 👋🏼:</h2>
+<h1 align="left">Hello World!, I'm Minh, a Vietnam Backend Developer :</h1>
 
 ###
 
@@ -55,5 +55,9 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="30" alt="amazonwebservices logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Minhdd15112003/Minhdd15112003/output/snake.svg" alt="Snake animation" />
 
 ###
