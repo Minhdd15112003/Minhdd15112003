@@ -5,7 +5,7 @@
 ###
 
 <h1 align="left">Hello World!, I'm Minh, a Vietnam Backend Developer👋🏼:</h1>
-align="left">🛜 currently working at devbeta as a backend developer.<br>💻 I'm passionate about backend programming, API design, and optimizing system performance.<br>🌱 Always eager to learn and stay updated with new technologies to improve product quality.<br>💡 Experienced in developing and maintaining complex backend systems.<br>🔍 Specialized in database query optimization and application performance improvement.<br>🔐 Strong focus on system and user data security.
+🛜 currently working at devbeta as a backend developer.<br>💻 I'm passionate about backend programming, API design, and optimizing system performance.<br>🌱 Always eager to learn and stay updated with new technologies to improve product quality.<br>💡 Experienced in developing and maintaining complex backend systems.<br>🔍 Specialized in database query optimization and application performance improvement.<br>🔐 Strong focus on system and user data security.
 
 ###
 # 💻 Tech Stack:
