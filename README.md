@@ -57,11 +57,6 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="30" alt="amazonwebservices logo"  />
 </div>
 
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
- <img src="https://raw.githubusercontent.com/Minhdd15112003/Minhdd15112003/output/snake.svg" alt="Snake animation" />
 </picture>
 <!-- <img src="https://raw.githubusercontent.com/Minhdd15112003/Minhdd15112003/output/snake.svg" alt="Snake animation" /> -->
 
